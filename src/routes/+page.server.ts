@@ -1,4 +1,4 @@
 export const load = async () => {
-	const name = 'lawal adebola';
+	const name = 'efe tobore';
 	return { name };
 };
